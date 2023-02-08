@@ -1,0 +1,11 @@
+{
+  "name": "@slashable/slashable",
+  "packageManager": "yarn@3.4.1",
+  "scripts": {
+    "build": "tsup",
+    "lint": "eslint src --ext .ts"
+  },
+  "devDependencies": {
+    "typescript": "5.0.0-beta"
+  }
+}
